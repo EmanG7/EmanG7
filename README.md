@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EmanG7
 - 👀 I’m interested in Cyber Security in Cloud and Software Development
-- 🌱 I’m currently learning AWS and Infrastructure
+- 🌱 I’m currently learning for AWS SAA, CCNA, and Sec + certifications
 <!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+<!-- - 📫 You can reach me at my gmail: eliiverson00@gmail.com -->
 
 <!---
 EmanG7/EmanG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
