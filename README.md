@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @EmanG7
-- 👀 I’m interested in Cyber Security especially Cloud Security and Services.
-- 🌱 I’m currently studying for Security+
-- 💞️ I’m looking to collaborate on Cloud Services
-<!-- - 📫 You can reach me at my gmail: eliiverson00@gmail.com -->
+#Hello!
 
-<!---
-EmanG7/EmanG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Gitlab v.s. GitHub
+What's a branch
+What does this error mean in Git
+Where do I do pull request
+How to ask question on GitHub
+How to be social on GitHub
