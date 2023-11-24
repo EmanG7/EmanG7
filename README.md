@@ -1,15 +1,8 @@
-# Hello!
------
-Gitlab v.s. GitHub
+<h1 align="center"> Hello </h1>
 
-What's a branch
+My name is Elijah, and I'm currently working on:
 
-What does this error mean in Git
+K3s Homelab (details coming soon)
+Github.io Page
+A 2D action platformer on Gamemaker
 
-Where do I do pull request
-
-How to ask question on GitHub
-
-How to be social on GitHub
-
-Is this Google?
